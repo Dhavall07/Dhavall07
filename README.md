@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there,
+  I am currently pursuing my Master's degree in Computer Science at Stony Brook University with a focus on both Software Engineering and Distributed Systems.
+  I am a coding enthusiast with a keen interest in problem-solving. I also have experience developing APIs, Microservices, and backends in general.
 
 <!--
 **Dhavall07/Dhavall07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
